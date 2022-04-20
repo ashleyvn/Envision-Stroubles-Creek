@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/Envision-Stroubles-Creek/static/css/main.073c9b0a.css",
-    "main.js": "/Envision-Stroubles-Creek/static/js/main.bd24bf13.js",
+    "main.js": "/Envision-Stroubles-Creek/static/js/main.2148221f.js",
     "static/js/787.70bc1e01.chunk.js": "/Envision-Stroubles-Creek/static/js/787.70bc1e01.chunk.js",
-    "static/media/logo.svg": "/Envision-Stroubles-Creek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/img2": "/Envision-Stroubles-Creek/static/media/img2.236318a24da304d87416",
+    "static/media/img1": "/Envision-Stroubles-Creek/static/media/img1.cead5efba79da8ed42e4",
+    "static/media/img": "/Envision-Stroubles-Creek/static/media/img.93e10abb8070a8b6fb08",
     "index.html": "/Envision-Stroubles-Creek/index.html",
     "main.073c9b0a.css.map": "/Envision-Stroubles-Creek/static/css/main.073c9b0a.css.map",
-    "main.bd24bf13.js.map": "/Envision-Stroubles-Creek/static/js/main.bd24bf13.js.map",
+    "main.2148221f.js.map": "/Envision-Stroubles-Creek/static/js/main.2148221f.js.map",
     "787.70bc1e01.chunk.js.map": "/Envision-Stroubles-Creek/static/js/787.70bc1e01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bd24bf13.js"
+    "static/js/main.2148221f.js"
   ]
 }
